@@ -1,0 +1,7 @@
+requests
+pysimplegui
+pandas
+python-telegram-bot
+web3
+py-etherscan-api
+Pillow
