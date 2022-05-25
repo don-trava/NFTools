@@ -1,6 +1,7 @@
 # NFTools
 
 Instruction for installation on debian-based OS machines
+
 -Installed VSCode
 -sudo apt update
 -sudo apt dist-upgrade
